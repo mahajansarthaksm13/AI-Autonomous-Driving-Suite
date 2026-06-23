@@ -21,7 +21,7 @@ render_sidebar()
 
 @st.cache_resource
 def load_yolo_model():
-    return YOLO("best.pt")
+    return YOLO("Project_Artifacts/best.pt")
 
 # ── Page Hero ────────────────────────────────────────────────────────────────
 page_hero(
