@@ -4,4 +4,4 @@ numpy
 matplotlib
 pillow
 ultralytics
-opencv-python
+opencv-python-headless
