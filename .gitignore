@@ -8,3 +8,6 @@ GoogleColab/
 
 *.zip
 *.pyc
+
+yolov8n.pt
+best.pt
